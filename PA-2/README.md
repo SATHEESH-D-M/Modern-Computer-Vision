@@ -2,7 +2,7 @@
 
 This programming assignment focusses on Edge detection (low-level-vision) techniques.
 
-- Dataset : BSDS500 (Source: Kaggle)
+- Dataset : BSDS500 (Source: Kaggle) (location: ```./archive```)
 
 - Goal : To build a deep learning network that works for edge detection on this dataset.
 
