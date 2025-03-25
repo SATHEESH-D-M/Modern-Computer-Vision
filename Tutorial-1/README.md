@@ -8,4 +8,4 @@
 - Image Filtering basic exercises.
 
 
-P.S: The python notebooks were the supplied to the class members and answered in a "fill-in-the-blanks" type.
+P.S: The python notebooks were supplied to the class members and answered in a "fill-in-the-blanks" type.
