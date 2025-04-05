@@ -2,7 +2,7 @@
 
 ### Kaggle Competition for EE5178 (class wide competition)
 <a href=https://www.kaggle.com/competitions/ee-5179-modern-computer-vision-course-competition/overview>
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" width="70">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" width="70">
 </a>
 
 ## Overview
